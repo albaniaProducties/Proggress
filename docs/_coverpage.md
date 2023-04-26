@@ -1,4 +1,4 @@
-![INDEXPNH](icon.md)
+![INDEXPNH](icon.gif)
 
 # Добро пожаловать!
 
